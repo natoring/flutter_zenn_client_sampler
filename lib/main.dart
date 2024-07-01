@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'features/search/view/search_page.dart';
+import 'features/article_list/presentation/view/search_page.dart';
 
 void main() {
   runApp(
